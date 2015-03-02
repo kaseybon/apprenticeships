@@ -20,14 +20,14 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * ~~[Ruby koans][]: let's start learning Ruby~~
 * ~~[CodeSchool: Ruby Bits 1][]~~
 * [CodeSchool: Ruby Bits 2][]
-* [CodeSchool: Testing with RSpec][]
-* [Triangle Kata - Ruby][] *with test suite*
+* ~~[CodeSchool: Testing with RSpec][]~~
+* ~~[Triangle Kata - Ruby][]~~ *with test suite*
 * [Game of Life Kata - Ruby][] *with test suite*
 * Game of Life - Git: push your project to Github for review
 * Game of Life - Review: code review your project with your technical director
 * ~~[Ruby Warriors][]~~
 * Game of Life - Refactor: implement changes discussed in review
-* Book Reviews - add to weekly journal (all books asigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
+* Book Reviews - add to weekly journal (all books assigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
 
 **Additional Resources:**
 
