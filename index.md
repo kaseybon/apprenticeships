@@ -23,8 +23,8 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 * ~~[CodeSchool: Testing with RSpec][]~~
 * ~~[Triangle Kata - Ruby][]~~ *with test suite*
 * [Game of Life Kata - Ruby][] *with test suite*
-* Game of Life - Git: push your project to Github for review
-* Game of Life - Review: code review your project with your technical director
+* ~~Game of Life - Git: push your project to Github for review~~
+* ~~Game of Life - Review: code review your project with your technical director~~
 * ~~[Ruby Warriors][]~~
 * Game of Life - Refactor: implement changes discussed in review
 * Book Reviews - add to weekly journal (all books assigned above). 100-200 words with a brief summary and your biggest applicable takeaway.
@@ -57,22 +57,22 @@ The Sparkbox Apprenticeship is loosely separated into three phases. Completing a
 
 **Training:**
 
-* Introduction to frontend project
-* [CodeSchool: Functional HTML5 & CSS3][]
-* [CodeSchool: HTML5 & CSS3 Updates Screencast][]
-* [CodeSchool: CSS Cross-Country][]
-* Frontend project style prototype review
-* Frontend project HTML review
-* Frontend project CSS review
-* [CodeSchool: Assembling Sass][]
+* ~~Introduction to frontend project~~
+* ~~[CodeSchool: Functional HTML5 & CSS3][]~~
+* ~~[CodeSchool: HTML5 & CSS3 Updates Screencast][]~~
+* ~~[CodeSchool: CSS Cross-Country][]~~
+* ~~Frontend project style prototype review~~
+* ~~Frontend project HTML review~~
+* ~~Frontend project CSS review~~
+* ~~[CodeSchool: Assembling Sass][]~~
 * [CodeSchool: Assembling Sass Part 2][]
 * Introduction to Compass
 * Frontend project Sass review (CSS to be rewritten)
 * [CodeSchool: Journey Into Mobile][]
 * Frontend project RWD practices review (CSS to be rewritten)
-* [CodeAcademy: Introduction to JavaScript][]
-* Introduction to Jasmine
-* [FizzBuzz Kata - Javascript][] *with unit tests*
+* ~~[CodeAcademy: Introduction to JavaScript][]~~
+* ~~Introduction to Jasmine~~
+* ~~[FizzBuzz Kata - Javascript][] *with unit tests*~~
 * [CodeSchool: CoffeeScript][]
 * [CodeSchool: jQuery Air: First Flight][]
 * [CodeSchool: jQuery Air: Captain's Log][]
